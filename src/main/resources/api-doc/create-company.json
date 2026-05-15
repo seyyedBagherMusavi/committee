@@ -1,0 +1,22 @@
+{
+  "registrationCode": "1234567890",
+  "name": "شرکت نمونه",
+  "englishName": "Sample Company",
+  "commercialId": "9876543210",
+  "registrationDate": "2024-04-18",
+  "address": "آدرس شرکت نمونه",
+  "postalCode": "1234567890",
+  "phone": "12345678",
+  "phonePrefix": "021",
+  "nationalId": "1234567890",
+  "economicCode": "123456789012",
+  "fax": "98765432",
+  "faxPrefix": "021",
+  "email": "info@samplecompany.com",
+  "website": "http://www.samplecompany.com",
+  "description": "توضیحات مربوط به شرکت نمونه",
+  "inactiveDate": null,
+  "inactiveReason": null,
+  "statusId": "550e8400-e29b-41d4-a716-44665544000e",
+  "logo":"550e8400-e29b-41d4-a716-44665544000e"
+}

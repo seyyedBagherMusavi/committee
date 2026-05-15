@@ -1,0 +1,39 @@
+{
+  "clazz": "com.nicico.companies.entities.BrandCompany",
+  "fields": [
+    {
+      "name": "createdBy",
+      "type": "java.lang.String",
+      "farsiName": "report.created_by",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "createdDate",
+      "type": "java.time.LocalDateTime",
+      "farsiName": "report.created_date",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "farsiName": "brand.name",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "status",
+      "type": "java.lang.Boolean",
+      "farsiName": "brand.status",
+      "headerFontSize": "7F"
+    }
+  ],
+  "query": {
+    "count": 10,
+    "startIndex": 0
+  },
+  "propertyRq": {
+    "title": "",
+    "size": "A4",
+    "orientation": "LANDSCAPE",
+    "type": "PDF"
+  }
+}

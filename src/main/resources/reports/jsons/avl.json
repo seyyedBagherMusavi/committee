@@ -1,0 +1,63 @@
+{
+  "clazz": "com.nicico.companies.entities.Avl",
+  "fields": [
+    {
+      "name": "createdBy",
+      "type": "java.lang.String",
+      "farsiName": "report.created_by",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "createdDate",
+      "type": "java.time.LocalDateTime",
+      "farsiName": "report.created_date",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "product.latinName",
+      "type": "java.lang.String",
+      "farsiName": "avl.product",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "company.name",
+      "type": "java.lang.String",
+      "farsiName": "avl.company",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "branch.name",
+      "type": "java.lang.String",
+      "farsiName": "avl.branch",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "brand.name",
+      "type": "java.lang.String",
+      "farsiName": "avl.brand",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "vendorProject.persianName",
+      "type": "java.lang.String",
+      "farsiName": "avl.vendor",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "status",
+      "type": "java.lang.Boolean",
+      "farsiName": "avl.status",
+      "headerFontSize": "7F"
+    }
+  ],
+  "query": {
+    "count": 10,
+    "startIndex": 0
+  },
+  "propertyRq": {
+    "title": "",
+    "size": "A4",
+    "orientation": "LANDSCAPE",
+    "type": "PDF"
+  }
+}

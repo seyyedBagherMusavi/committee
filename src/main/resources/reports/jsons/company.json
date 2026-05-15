@@ -1,0 +1,147 @@
+{
+  "clazz": "com.nicico.companies.entities.Company",
+  "fields": [
+    {
+      "name": "createdBy",
+      "type": "java.lang.String",
+      "farsiName": "report.created_by",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "createdDate",
+      "type": "java.time.LocalDateTime",
+      "farsiName": "report.created_date",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "registrationCode",
+      "type": "java.lang.String",
+      "farsiName": "company.registrationCode",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "farsiName": "company.name",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "latinName",
+      "type": "java.lang.String",
+      "farsiName": "company.latinName",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "commercialId",
+      "type": "java.lang.String",
+      "farsiName": "company.commercialId",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "registrationDate",
+      "type": "java.time.LocalDateTime",
+      "farsiName": "company.registrationDate",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "address",
+      "type": "java.lang.String",
+      "farsiName": "company.address",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "postalCode",
+      "type": "java.lang.String",
+      "farsiName": "company.postalCode",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "phone",
+      "type": "java.lang.String",
+      "farsiName": "company.phone",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "phonePrefix",
+      "type": "java.lang.String",
+      "farsiName": "company.phonePrefix",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "nationalId",
+      "type": "java.lang.String",
+      "farsiName": "company.nationalId",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "economicCode",
+      "type": "java.lang.String",
+      "farsiName": "company.economicCode",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "fax",
+      "type": "java.lang.String",
+      "farsiName": "company.fax",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "faxPrefix",
+      "type": "java.lang.String",
+      "farsiName": "company.faxPrefix",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "website",
+      "type": "java.lang.String",
+      "farsiName": "company.website",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "email",
+      "type": "java.lang.String",
+      "farsiName": "company.email",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "inactiveDate",
+      "type": "java.time.LocalDateTime",
+      "farsiName": "company.inactiveDate",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "description",
+      "type": "java.lang.String",
+      "farsiName": "company.description",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "inactiveDesc",
+      "type": "java.lang.String",
+      "farsiName": "company.inactiveDesc",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "status",
+      "type": "java.lang.String",
+      "farsiName": "company.status",
+      "headerFontSize": "7F"
+    },
+    {
+      "name": "type.persian",
+      "type": "java.lang.String",
+      "farsiName": "company.type",
+      "headerFontSize": "7F"
+    }
+  ],
+  "query": {
+    "count": 10,
+    "startIndex": 0
+  },
+  "propertyRq": {
+    "title": "",
+    "size": "A4",
+    "orientation": "LANDSCAPE",
+    "type": "PDF"
+  }
+}
