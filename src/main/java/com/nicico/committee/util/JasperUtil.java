@@ -1,9 +1,9 @@
-package com.nicico.companies.util;
+package com.nicico.committee.util;
 
 
-import com.nicico.companies.util.base.FieldRq;
-import com.nicico.companies.util.base.ReportRq;
-import com.nicico.companies.util.base.enumeration.ExportType;
+import com.nicico.committee.util.base.FieldRq;
+import com.nicico.committee.util.base.ReportRq;
+import com.nicico.committee.util.base.enumeration.ExportType;
 import com.nicico.copper.common.domain.i18n.CaptionFactory;
 import com.nicico.copper.common.util.date.DateUtil;
 import com.nicico.copper.core.SecurityUtil;

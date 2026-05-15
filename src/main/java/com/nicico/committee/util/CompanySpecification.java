@@ -1,4 +1,4 @@
-package com.nicico.companies.util;
+package com.nicico.committee.util;
 
 import com.nicico.copper.common.dto.search.EOperator;
 import com.nicico.copper.common.dto.search.SearchDTO;

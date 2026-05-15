@@ -1,4 +1,4 @@
-package com.nicico.companies.config;
+package com.nicico.committee.config;
 
 
 import org.springframework.beans.factory.annotation.Value;
@@ -39,8 +39,8 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("companies-endpoints")
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.nicico.companies"))
-                .apis(RequestHandlerSelectors.basePackage("com.nicico.companies.controller.blacklist").negate())
+                .apis(RequestHandlerSelectors.basePackage("com.nicico.committee"))
+                .apis(RequestHandlerSelectors.basePackage("com.nicico.committee.controller.blacklist").negate())
                 .paths(PathSelectors.any())
                 .build()
                 .securityContexts(Collections.singletonList(securityContext()))
@@ -53,7 +53,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .groupName("blacklist-endpoints")   // This appears in the dropdown
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.nicico.companies.controller.blacklist"))
+                .apis(RequestHandlerSelectors.basePackage("com.nicico.committee.controller.blacklist"))
                 .paths(PathSelectors.any())
                 .build()
                 .securityContexts(Collections.singletonList(securityContext()))

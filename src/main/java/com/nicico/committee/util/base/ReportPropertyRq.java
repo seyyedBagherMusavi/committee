@@ -1,7 +1,7 @@
-package com.nicico.companies.util.base;
+package com.nicico.committee.util.base;
 
 
-import com.nicico.companies.util.base.enumeration.*;
+import com.nicico.committee.util.base.enumeration.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

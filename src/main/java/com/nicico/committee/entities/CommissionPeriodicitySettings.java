@@ -1,4 +1,4 @@
-package com.nicico.companies.entities.CommissionEntities;
+package com.nicico.committee.entities.CommissionEntities;
 
 import com.nicico.copper.common.domain.Auditable;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.nicico.companies.config.jackson;
+package com.nicico.committee.config.jackson;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;

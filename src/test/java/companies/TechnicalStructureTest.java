@@ -1,8 +1,8 @@
 package companies;
 
-import com.nicico.companies.Application;
-import com.nicico.companies.config.ApplicationException;
-import com.nicico.companies.config.GlobalExceptionHandler;
+import com.nicico.committee.Application;
+import com.nicico.committee.config.ApplicationException;
+import com.nicico.committee.config.GlobalExceptionHandler;
 import com.tngtech.archunit.core.importer.ImportOption.DoNotIncludeTests;
 import com.tngtech.archunit.junit.AnalyzeClasses;
 import com.tngtech.archunit.junit.ArchTest;

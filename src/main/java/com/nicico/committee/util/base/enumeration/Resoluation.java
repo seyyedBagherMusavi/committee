@@ -1,4 +1,4 @@
-package com.nicico.companies.util.base.enumeration;
+package com.nicico.committee.util.base.enumeration;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

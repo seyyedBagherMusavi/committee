@@ -1,4 +1,4 @@
-package com.nicico.companies;
+package com.nicico.committee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

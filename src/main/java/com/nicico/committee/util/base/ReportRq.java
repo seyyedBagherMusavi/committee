@@ -1,4 +1,4 @@
-package com.nicico.companies.util.base;
+package com.nicico.committee.util.base;
 
 import com.nicico.copper.common.dto.search.SearchDTO;
 import lombok.Getter;

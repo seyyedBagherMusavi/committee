@@ -1,4 +1,4 @@
-package com.nicico.companies.config;
+package com.nicico.committee.config;
 
 import org.springframework.core.io.InputStreamResource;
 

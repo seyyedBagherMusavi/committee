@@ -1,7 +1,7 @@
-package com.nicico.companies.util;
+package com.nicico.committee.util;
 
-import com.nicico.companies.entities.Company;
-import com.nicico.companies.service.dto.CompanySearchDTO;
+import com.nicico.committee.entities.Company;
+import com.nicico.committee.service.dto.CompanySearchDTO;
 import com.nicico.copper.common.domain.criteria.NICICOSpecification;
 import com.nicico.copper.common.dto.search.SearchDTO;
 import lombok.RequiredArgsConstructor;

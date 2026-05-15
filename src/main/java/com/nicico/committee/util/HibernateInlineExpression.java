@@ -1,4 +1,4 @@
-package com.nicico.companies.util;
+package com.nicico.committee.util;
 
 import org.hibernate.query.criteria.internal.CriteriaBuilderImpl;
 import org.hibernate.query.criteria.internal.compile.RenderingContext;

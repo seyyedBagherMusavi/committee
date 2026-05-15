@@ -76,7 +76,7 @@ nicico:
     revoke: false
   jpa:
     entity:
-      package: com.nicico.companies
+      package: com.nicico.committee
   google:
     mail:
       username:

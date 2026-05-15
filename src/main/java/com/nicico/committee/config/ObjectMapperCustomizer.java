@@ -1,11 +1,11 @@
-package com.nicico.companies.config;
+package com.nicico.committee.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import com.nicico.companies.config.jackson.LocalDateSerializer;
-import com.nicico.companies.config.jackson.LocalDateTimeSerializer;
-import com.nicico.companies.config.jackson.TimestampToLocalDateDeserializer;
-import com.nicico.companies.entities.enums.BaseInfoType;
+import com.nicico.committee.config.jackson.LocalDateSerializer;
+import com.nicico.committee.config.jackson.LocalDateTimeSerializer;
+import com.nicico.committee.config.jackson.TimestampToLocalDateDeserializer;
+import com.nicico.committee.entities.enums.BaseInfoType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 

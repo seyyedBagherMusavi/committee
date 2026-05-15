@@ -1,4 +1,4 @@
-package com.nicico.companies.exception;
+package com.nicico.committee.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

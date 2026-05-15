@@ -1,4 +1,4 @@
-package com.nicico.companies.util.base.enumeration;
+package com.nicico.committee.util.base.enumeration;
 
 import com.nicico.copper.base.IErrorCode;
 import org.springframework.http.HttpStatus;

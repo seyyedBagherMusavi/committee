@@ -1,4 +1,4 @@
-package com.nicico.companies;
+package com.nicico.committee;
 import com.fasterxml.jackson.core.type.TypeReference;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;

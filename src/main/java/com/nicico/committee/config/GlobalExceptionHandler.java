@@ -1,6 +1,6 @@
-package com.nicico.companies.config;
+package com.nicico.committee.config;
 
-import com.nicico.companies.client.hrm.HrmApiException;
+import com.nicico.committee.client.hrm.HrmApiException;
 import com.nicico.copper.common.AbstractExceptionHandlerControllerAdvice;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

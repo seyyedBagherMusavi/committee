@@ -1,4 +1,4 @@
-package com.nicico.companies.config;
+package com.nicico.committee.config;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
